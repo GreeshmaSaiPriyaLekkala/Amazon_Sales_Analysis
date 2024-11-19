@@ -11,7 +11,7 @@ The dataset undergoes cleaning processes to enhance its usability. Unrelated or 
 
 ## Exploratory Data Analysis (EDA)
 ### 1. Size Analysis
-The distribution of purchases based on size is explored using count plots, revealing that M-Size is the most popular among buyers.
+The distribution of the purchases based on size is explored using count plots, revealing that M-Size is the most popular among buyers.
 
 ### 2. Grouping by Size
 Grouping the data by size allows for a deeper understanding of the quantity of products sold for each size. The analysis confirms that M-Size products dominate sales.
